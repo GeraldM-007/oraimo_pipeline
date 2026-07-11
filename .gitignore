@@ -1,0 +1,9 @@
+#env
+.env
+
+#virtualenv
+.venv 
+
+#python cache files
+__pycache__/
+.python-version
