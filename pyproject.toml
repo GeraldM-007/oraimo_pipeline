@@ -1,0 +1,15 @@
+[project]
+name = "oraimo-pipeline"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "beautifulsoup4>=4.15.0",
+    "dotenv>=0.9.9",
+    "html-parser>=0.2",
+    "pandas>=2.3.3",
+    "psycopg2>=2.9.12",
+    "requests>=2.34.2",
+    "sqlalchemy>=2.0.51",
+]
